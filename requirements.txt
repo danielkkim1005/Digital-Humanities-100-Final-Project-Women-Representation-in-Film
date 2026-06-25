@@ -1,0 +1,5 @@
+# Core libraries
+requests
+beautifulsoup4
+pandas
+gender-guesser
