@@ -3,7 +3,7 @@
 
 A data pipeline and analysis project examining whether the gender of a film's creative workforce — its directors and writers — correlates with on-screen gender representation as measured by the Bechdel Test, across Hollywood's production history from 1894 to 2026.
 
-Developed as a group project for Digital Humanities (DIGHUM), UC Berkeley, Spring 2025.
+Developed as a group project for Theory and Method in the Digital Humanities (DIGHUM 100), UC Berkeley, Summer 2026.
 
 ---
 
@@ -72,7 +72,8 @@ The final dataset contains **9,904 films** spanning **1894–2026**, combining c
 │   ├── bechdel_imdb_updated.csv           # updated through 2026, 9,904 rows
 │   └── bechdel_imdb_with_gender.csv       # final dataset with crew gender columns
 ├── scripts/
-│   ├── bechdel_update_pipeline.py         # step 1: scrape bechdeltest.com and merge with IMDb metadata
+│   ├── scrape_bechdel_v3.py               # step 1: scrape bechdeltest.com
+│   ├── bechdel_update_pipeline.py         # step 2: merge with IMDb metadata
 │   └── add_crew_gender.py                 # step 2: add crew gender columns
 └── analysis/
     └── (R scripts for visualization — in progress)
