@@ -72,9 +72,8 @@ The final dataset contains **9,904 films** spanning **1894–2026**, combining c
 │   ├── bechdel_imdb_updated.csv           # updated through 2026, 9,904 rows
 │   └── bechdel_imdb_with_gender.csv       # final dataset with crew gender columns
 ├── scripts/
-│   ├── scrape_bechdel_v3.py               # step 1: scrape bechdeltest.com
-│   ├── bechdel_update_pipeline.py         # step 2: merge with IMDb metadata
-│   └── add_crew_gender.py                 # step 3: add crew gender columns
+│   ├── bechdel_update_pipeline.py         # step 1: scrape bechdeltest.com and merge with IMDb metadata
+│   └── add_crew_gender.py                 # step 2: add crew gender columns
 └── analysis/
     └── (R scripts for visualization — in progress)
 ```
