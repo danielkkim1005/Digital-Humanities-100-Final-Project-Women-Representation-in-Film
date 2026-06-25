@@ -183,15 +183,4 @@ Scraping logic, pipeline architecture, and debugging assisted by **Claude (Anthr
 ---
 
 ## References
-
-Day, Faithe J. "Debates in #BlackDH: Key Moments and Queer Directions in Black Studies Scholarship." *Digital Humanities Quarterly*, vol. 18, no. 4, 2024.
-
-Friedman, Lyle, et al. "The Writers, Directors, and Producers Who Make Films That Fail the Bechdel Test." *The Pudding*, Mar. 2017, pudding.cool/2017/03/bechdel/.
-
-Hepworth, Katherine, and Christopher Church. "Racism in the Machine: Visualization Ethics in Digital Humanities Projects." *Digital Humanities Quarterly*, vol. 12, no. 4, 2019.
-
-Lauzen, Martha. "The Celluloid Ceiling: Employment of Behind-the-Scenes Women on Top Grossing U.S. Films in 2025." Center for the Study of Women in Television & Film, 14 Jan. 2026.
-
-Prescott, Andrew. "Bias in Big Data, Machine Learning and AI: What Lessons for the Digital Humanities?" *Digital Humanities Quarterly*, vol. 17, no. 2, 2023.
-
-Rezai, Yasamin. "Data Stories for/from All: Why Data Feminism Is for Everyone." *Digital Humanities Quarterly*, vol. 16, no. 2, 2022.
+TODO
